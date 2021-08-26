@@ -1,0 +1,2 @@
+# 不需要 eslint 的目录和文件
+# ESLint 默认总是忽略 /node_modules/* 和 /bower_components/* 中的文件
